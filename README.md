@@ -50,32 +50,19 @@ Whether you're a fitness enthusiast, athlete, or anyone focused on health optimi
 
 ### Installation
 
-#### Option 1: Web Browser (Recommended)
-Simply open the application in your web browser:
-```
-https://your-domain.com/
-```
-
-#### Option 2: Install as App
-The fastest way to get started:
-
+#### Option 1: Install as App (Recommended)
 **On Mobile (iOS/Android):**
-1. Open MacroLift in your browser
-2. Tap the **Share** or **Menu** button (⋯ or ↗️)
-3. Select **"Add to Home Screen"** or **"Install"**
-4. Tap the app icon to launch
+1. Go to app.netlify.com/drop on your computer
+2. Unzip the file and drag the entire folder onto the Netlify page
+3. You'll get a live URL instantly (something like random-name.netlify.app)
+4. Open that URL in Chrome on your phone
+5. Tap the ⋮ menu → "Install app" (or you'll see an install banner automatically)
 
 **On Desktop (Windows/macOS/Linux):**
 1. Open MacroLift in your browser
 2. Look for the install prompt in the address bar
 3. Click **Install** or press the install button
 4. The app will launch as a standalone application
-
-**Alternative Desktop Installation:**
-- Click the menu button (⋯) in the top-right corner
-- Select **"Install MacroLift"**
-- Choose your preferred location
-- Launch from your applications folder or taskbar
 
 ### First Steps
 1. **Open the App** - Launch MacroLift from your home screen or applications folder
